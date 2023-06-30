@@ -1,0 +1,221 @@
+﻿To summarize the assignment (as explained in the document above) 
+By the end of class Thursday Week 7 you need a page in your group area entitled: “Workflow Description” .
+In this page you should have:
+1) A comprehensive explanation of your team’s chosen workflow 
+2)  A explanation of its operation
+3) What artifacts it will create
+Please include all three parts in your explanation.  
+Whatever process you use must include the following: 
+1. Stories or tasks – Without requirements no project can be implemented. Agile requirements come from stories or required tasks that need to be done to complete the project. 
+2. Some manner of estimation - A project cannot be controlled without estimating how long it will run. You have to include some way of estimating the length of the project. Remember: different frameworks use different methods of estimation: Story sizing, Average Cycle Time and individual team member estimates have all been studied as estimation methods. 
+3. Product Review – Your framework must include a product review process even if the process is only a team code review.  Some workflows require them at specific times, some only when necessary. When your team performs product reviews depends on how your team implements your framework. 
+
+
+Agile: Introduction to Capstone submission requirements
+WorkFlow Description
+
+
+Explain each team member role and workflow they will be conducting
+Team members/roles:
+Meme: FrontEnd Developer: Will make sure the development of the application has an interface that displays images and detailed information so that the users can know what they are using.
+
+
+Zhaymauri:Tester/BackEnd Developer: Will make sure the application runs amd develop the database so that the application will show the display of the application operation. 
+Adolfo: UX/UI-FrontEnd Developer: Will make sure the development of the application has an interface that displays images and detailed information so that the users can know what they are using.
+Josh: BackEnd Developer: Will make sure the project data, security, and other functionalities are well developed and performed for users to see. Will ensure the data access and middle layers are modular.
+LJ: Scrum Master/Floating Developer/FrontEnd Developer: Make sure the project is well-maintained, operated professionally, communicative within the team developers to make sure everyone is on board. Assign stand up meetings to see where everyone is at on the development of the project. 
+
+
+An explanation of the project operation:
+The application will be developed as a Web Application to ensure that users can look for new video games and game facts for their own knowledge and interests.
+
+
+What artifacts will the project have?
+Padlet: Used for epics,  user stories, story point estimates & task breakdowns
+Netbeans & MySQL: Web Application, JDBC and SQL database
+Burndown Chart: In case some ideas are useful and can be renewed with other ideas.
+Methodology: Scrum ceremonies with some XP. Sprint planning with epic/story/task breakdown & story point estimates. Daily Standups. Trial the product during sprint review, then close the sprint with a retrospective. 
+Retrospective: Google Meet or Discord to link up if not available on Thursdays and Fridays.
+Sprint Planning: Poker planning to estimate user stories.
+Sprint Review: Go over the project and discuss difficulties, new additions or takeaways. 
+Product Backlog: Full prioritized list of unfinished user stories.
+Sprint Backlog: User stories loaded for each sprint.
+Pair Programming: Schedule coding sessions where we work together in a single location. 
+Daily Stand-Ups: Daily meet up with the team to discuss what’s working, what’s not, and what’s next. Also, see if any team member needs assistance.
+ERD Diagrams: Chart our entities and their relationships for our database
+Wireframes: Design each web page using wireframes to provide the best possible user experience.
+Class Diagrams: Chart our classes, methods, and attributes for our DAO.
+Java: Introduction to Capstone submission requirements 
+
+
+Executive Summary: Describe the purpose of the app to allow gamers to connect and exchange information. Gaming is an exceptionally growing industry and can proposition ourselves well for the heart of the market.
+
+
+Functional requirements: 
+* Brainstorm features 
+* Game database X
+* Form teams to join games X
+* Monetization
+* Ask if they are a robo cop
+* Discussion board X
+* Guidebook X
+* Ask a question (Quora, Poll) X
+* Reviews X
+* Profile Page X
+* Join members team X
+* Unlockable features X
+* Newsboard X
+* JavaSwing popup that says “your computer may be infected”
+
+
+User Stories:
+
+
+As a member of the gaming forum, I want to access a comprehensive video game database so that I can easily find information about various games, including details like release dates, platforms, genres, and user ratings. - 6.30.2023
+As a member of the gaming forum, I can access the comprehensive video game database through a web browser 
+The database provides a vast collection of video games, including titles from various platforms, genres, and release dates.
+I can search for specific games by their titles, genres, developers, or platforms within the database.
+As someone who likes to ask questions about games, I want to be able to ask questions to the gaming community so that I, and many others, have questions answered about our favorite games.
+I should be able to post a question about games on the gaming forum on any given day.
+The question and its corresponding answers should be easily searchable and accessible, allowing other users to find and benefit from the knowledge shared within the community.
+The question should be properly categorized or tagged, making it easier for other users to find and filter questions based on their interests.
+The forum should encourage users to mark a question as resolved or answered once they have received a satisfactory response, helping others to identify questions that still require attention.
+
+
+Upon searching for a game, I am presented with detailed information about the game, including release date, platforms supported, genre, and publisher.
+
+
+As a sociable gamer, I want a way to interact with other members so we can discuss gaming topics and non-gaming topics. - 6.30.2023
+Users should be able to create new discussion threads in both the gaming and non-gaming sections.
+Users should be able to post comments, replies, and reactions to discussion threads.
+The platform should provide a search functionality to easily find specific discussion topics.
+The platform should have separate sections or categories for gaming and non-gaming discussions.
+
+
+As someone who likes to stay up to date, I want a way to read and discuss gaming news, so I can stay informed about new game releases, updates, industry trends, and events. -  6.30.2023
+As a user interested in gaming news, I can access the platform via a web browser.
+Upon accessing the platform, I am presented with a curated list of latest gaming news articles.
+Each news article includes a headline, a brief summary, and a featured image to provide a quick overview.
+I can click on a news article to view the full content, including the author's name, publication date, and additional media such as images or videos.
+
+
+As someone who likes to stay up to date, I want a way to read and discuss gaming news, so I can stay informed about new game releases, updates, industry trends, and events. -  6.30.2023
+As a user interested in gaming news, I can access the platform via a web browser.
+Upon accessing the platform, I am presented with a curated list of latest gaming news articles.
+Each news article includes a headline, a brief summary, and a featured image to provide a quick overview.
+I can click on a news article to view the full content, including the author's name, publication date, and additional media such as images or videos.
+
+
+
+
+
+
+As an engaged member, I want features that can be unlocked through engagement in the community, so I can promote engagement in the community with my friends. 6.30.2023
+As an engaged member of the community, I can unlock various features through my active participation and contribution.
+The platform tracks and recognizes my engagement activities, such as posting comments, creating discussions, sharing content, or receiving positive feedback from other community members.
+Upon reaching specific engagement milestones, I unlock badges, achievements, or levels that are prominently displayed on my profile, showcasing my dedication and involvement within the community.
+The platform offers a leaderboard that ranks members based on their engagement level, fostering healthy competition and encouraging increased participation. 
+
+
+1. As a gaming enthusiast, I want to have a personal account on the gaming forum, so I can access and engage with the community, participate in discussions, share my experiences, and connect with fellow gamers. -  6.30.2023
+   * The platform should provide a user registration and login system.
+   * Users should be able to create and customize their profiles.
+   * Security for user accounts
+2. As a sociable gamer, I want a way to interact with other members so we can discuss gaming topics and non-gaming topics. - 6.30.2023
+   * Users should be able to create new discussion threads in both the gaming and non-gaming sections.
+   * Users should be able to post comments, replies, and reactions to discussion threads.
+   * The platform should provide a search functionality to easily find specific discussion topics.
+   * The platform should have separate sections or categories for gaming and non-gaming discussions.
+   * As a user, I want to optimize game performance and improve stability so that players can enjoy smooth gameplay without technical issues. 
+   * Identify and analyze performance  bottlenecks.
+   * Monitor and optimize network communication 
+   * Discuss hardware and software solutions
+
+
+3. As a dedicated gamer, I want to have access to comprehensive gaming guidebooks that provide detailed information, tips, and strategies for various games, so I can enhance my gameplay and discover hidden secrets. -  6.30.2023
+   * As a dedicated gamer, I can access the gaming guide books through a web browser.
+   * The platform offers a wide selection of gaming guide books covering various popular games
+   * Each gaming guidebook provides comprehensive and detailed information about the game, including gameplay mechanics, controls, objectives, and progression systems.
+   * The guidebooks offer in-depth strategies, tips, and tricks to help me improve my gameplay skills and enhance my overall gaming experience.
+
+
+
+
+
+
+4. As a member of the gaming forum, I want to access a comprehensive video game database so that I can easily find information about various games, including details like release dates, platforms, genres, and user ratings. - 6.30.2023
+   * As a member of the gaming forum, I can access the comprehensive video game database through a web browser 
+   * The database provides a vast collection of video games, including titles from various platforms, genres, and release dates.
+   * I can search for specific games by their titles, genres, developers, or platforms within the database.
+
+
+5. As a collaborator, I want to have a space where I can interact with others who have a competitive mindset to form teams, so that we can organize ourselves into doing competitive gaming. -  6.30.2023
+   * As a collaborator interested in competitive gaming, I can access the collaboration space through a web browser
+   * The platform provides a dedicated section or feature specifically designed for forming teams and interacting with others who share a competitive mindset.
+   * Upon accessing the collaboration space, I am prompted to log in using my unique user credentials or create a new account if I don't have one.
+   * Once logged in, I am presented with a platform interface that allows me to search for other users interested in competitive gaming and form teams.
+
+
+
+
+6. As someone who likes giving my opinion on things that I like, I want to be  able to give reviews on games, or trailers that are released so I can and many others can share a point of view. 6.30.2023
+   * As someone who likes giving opinions on games and trailers, I can access the review feature through a web browser
+   * The platform provides a user-friendly interface that allows me to easily navigate to the review section for games and trailers.
+   * I can search for specific games or trailers within the platform to access their dedicated review sections.
+   * Upon accessing a game or trailer review section, I am presented with existing reviews and ratings from other users.
+
+
+7. As an active member of the gaming forum, I want a way to reach out to customer support in case something goes wrong. 6.30.23
+   * I should have a clearly visible and easily accessible option to contact customer support.
+   * The customer support option should provide multiple channels for contact, such as email, live chat, or a dedicated support forum, allowing me to choose the most convenient method for reaching out.
+
+
+8. As someone who likes to stay up to date, I want a way to read and discuss gaming news, so I can stay informed about new game releases, updates, industry trends, and events. -  6.30.2023
+   * As a user interested in gaming news, I can access the platform via a web browser.
+   * Upon accessing the platform, I am presented with a curated list of latest gaming news articles.
+   * Each news article includes a headline, a brief summary, and a featured image to provide a quick overview.
+   * I can click on a news article to view the full content, including the author's name, publication date, and additional media such as images or videos.
+9. As an engaged member of the community, I can unlock various features through my active participation and contribution.
+   * The platform tracks and recognizes my engagement activities, such as posting comments, creating discussions, sharing content, or receiving positive feedback from other community members.
+   * Upon reaching specific engagement milestones, I unlock badges, achievements, or levels that are prominently displayed on my profile, showcasing my dedication and involvement within the community.
+   * The platform offers a leaderboard that ranks members based on their engagement level, fostering healthy competition and encouraging increased participation. 
+
+
+10. As a user, I want to be able to have the option to see unlockable features that may be monetized for members only.  6.30.23
+   * The unlockable features for members should be clearly distinguished and labeled as such, indicating that they are exclusive to paid members or require a membership subscription.
+   * The platform should provide a mechanism for users to upgrade or purchase a membership subscription if they are interested in accessing the unlockable features.
+
+
+10.  As someone who wants security I WANT a way for user verification of their identity SO that there are NO robots on the web application.
+* Robots are to be expunged
+
+
+
+
+I can click on a news article to view the full content, including the author's name, publication date, and additional media such as images or videos.
+
+
+
+
+
+
+
+
+Technical Requirements: 
+* Java for data access and code 
+* Write comments for each functional code 
+* Java Server Pages (JSP)
+* HTML and CSS for styling and design
+* Response to user events and java script listeners
+* HTTP request and response cycle 
+* Labels and java script tooltips 
+* MySQL and ERD
+* JDBC in DAO, each class should perform one task
+
+
+Store Values:
+* Store database columns and SQL statements in variables
+* Use mathematical operations to count team members, numbers of posts  
+* Loops to display search results/or team
+* Conditional statements to interpret poll results 
+* DAO (Data Access Object)
